@@ -1,0 +1,21 @@
+html {
+  font-size: 32px;
+  font-family: "Great Vibes", cursive;
+  background-color: plum;
+}
+
+img {
+  width: 200px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 35px;
+}
+h1 {
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
