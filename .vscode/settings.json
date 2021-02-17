@@ -1,4 +1,5 @@
 {
     "files.autoSaveDelay": 5,
-    "workbench.colorTheme": "BeardedTheme Purple"
+    "workbench.colorTheme": "BeardedTheme Purple",
+    "editor.formatOnSave": true
 }
