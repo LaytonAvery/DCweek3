@@ -1,0 +1,13 @@
+p {
+  font-size: 50px;
+  color: pink;
+}
+
+#myHometown {
+  font-size: 25px;
+  color: salmon;
+}
+
+p.cuisine {
+  color: plum;
+}
